@@ -1,0 +1,11 @@
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\bin\CommPortal.dll
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\bin\CommPortal.pdb
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\bin\CommPortal.xml
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\bin\EntityFramework.dll
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\bin\EntityFramework.xml
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\obj\Debug\CommPortal.vbprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\obj\Debug\CommPortal.Resources.resources
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\obj\Debug\CommPortal.vbproj.GenerateResource.Cache
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\obj\Debug\CommPortal.dll
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\obj\Debug\CommPortal.xml
+c:\users\jason\documents\visual studio 2010\Projects\CommPortal\CommPortal\obj\Debug\CommPortal.pdb
